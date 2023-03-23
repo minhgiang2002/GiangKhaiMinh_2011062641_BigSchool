@@ -1,5 +1,4 @@
-﻿
-body {
+﻿body {
     padding-top: 50px;
     padding-bottom: 20px;
 }
@@ -25,7 +24,7 @@ textarea {
 }
 
 .navbar-inverse {
-    background-color: #d41d50;
+    background-color: #00ffff;
     border-color: #fbf6f6;
 }
 
@@ -48,7 +47,7 @@ textarea {
 
         .course > li .date {
             text-align: center;
-            background-color: #d41d50;
+            background-color: #b200ff;
             color: white;
             width: 60px;
             border-radius: 8px;
@@ -59,4 +58,3 @@ textarea {
             top: 0;
             left: 70px;
         }
-
